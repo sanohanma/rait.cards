@@ -1,0 +1,37 @@
+   body{
+    background: #060707;
+
+   }
+   .container{
+    margin: 0 auto;
+    width: 1200px;
+
+   }
+   h2{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+   }
+.desc{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 50px;
+    font-family: sans-serif
+    
+   }
+.cards{
+display: flex;
+justify-content:
+space-between;
+}
+.card{
+background: #FFFFFF;
+padding: 30px 60px 30px 60px;
+width: 500px;
+box-sizing: border-box;
+}
+
